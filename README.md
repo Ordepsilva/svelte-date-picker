@@ -7,7 +7,7 @@ Feel free to test it
 
 ## Developing
 
-If you want to un in local that's what you need :
+If you want to run in local that's what you need :
 
 ```bash
 npm install
