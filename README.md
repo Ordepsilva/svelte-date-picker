@@ -1,38 +1,26 @@
-# create-svelte
+# Svelte Date Picker
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Simple Date picker with range
 
-## Creating a project
+Feel free to test it 
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+If you want to un in local that's what you need :
 
 ```bash
+npm install
 npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+## TO DO 
 
-To create a production version of your app:
+That's the list of future development 
 
 ```bash
-npm run build
+    - Change and improve all the logic from Js Date to moment
+    - Create exportable class to manage picker layout
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
